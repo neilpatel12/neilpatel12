@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+Variety of projects from undergrad, masters etc. 
+
+
 <!--
 **neilpatel12/neilpatel12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
