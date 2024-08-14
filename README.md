@@ -1,5 +1,4 @@
 ## Hi there 👋
-
 Variety of projects from undergrad, masters etc. 
 
 
